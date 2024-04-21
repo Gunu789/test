@@ -1,0 +1,759 @@
+img.d-block.bg-slide {
+    position: relative; 
+    background-blend-mode: overlay;
+    background-color: #3913de;
+    filter: brightness(0.5);
+}
+nav.navbar.navbar-expand-sm {
+    position: absolute;
+    left: 30%;
+    top: 50px;
+}
+a.nav-link {
+    color: white;
+}
+li.nav-item  {
+    padding: 0px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-transform: capitalize;
+    padding-right: 24px;
+}
+.carousel-item {
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 12%;
+}
+.carousel-caption h3{
+font-size: 24px;
+font-weight: 700;
+line-height: 31.25px;
+}
+.carousel-caption h1{
+font-size: 65px;
+font-weight: 700;
+line-height: 86px;
+letter-spacing: -1px;
+}
+.carousel-caption p{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 32px;
+    width: 64%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+button.btn.btn-account.btn-primary {
+    padding: 15px 40px;
+    border-radius: 100px;
+    background-color: #482BE7;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+
+#free-sample {
+    margin: 50px 0px;
+    padding: 80px 0px;
+    background-color: #2F1893;
+    color: white;
+}
+
+.sample-free h6 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 2px;
+}
+
+.sample-free h5 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -1px;
+    width: 51%;
+    text-transform: capitalize;
+    margin: 0 auto;
+}
+
+.sample-free p {
+    width: 43%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#form {
+    margin: 50px 0px;
+    padding: 80px 0px;
+    background-image: url("images/Background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-color: #484074;
+}
+
+.form-content {
+    padding: 50px 0px;
+}
+
+.form-content h5 {
+    font-size: 42px;
+    line-height: 52px;
+    text-align: left;
+    width: 60%;
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.form-content p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    width: 56%;
+    color: white;
+    margin: 0 auto;
+}
+.form-line{
+    margin-top: 20px;
+}
+.form-line-1{
+    width:50%;
+    border:2px solid;
+    height: 1px;
+}
+.form-line-2{
+    width:50%;
+    border:2px solid;
+    height: 1px;
+    color:#beb2b2;
+}
+.form-log h3{
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;    
+}
+input#email {
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 100px;
+}
+input#pwd {
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 100px;
+}
+.form-border {
+    background-color: white;
+    padding: 34px 70px;
+    width: 70%;
+    border-radius: 10px;
+    color: #1E0E62;
+    font-weight: 500;
+}
+
+#clients {
+    margin: 50px 0px;
+    padding: 80px 0px;
+    background-color: #2F1893;
+    color: white;
+}
+button.btn.create-btn.btn-primary {
+    background-color: #25DAC5;
+    border-color: #25DAC5;
+    padding: 15px 75px;
+    border-radius: 100px;
+    font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+margin-top: 15px;
+}
+.middle-1{
+    width:45%;
+    border:2px solid;
+    height: 1px;
+}
+.middle-line p{
+    margin:0px;
+    padding:0px;
+font-size: 18px;
+line-height: 22px;
+}
+.middle-2{
+    width:45%;
+    border:2px solid;
+    height: 1px;
+    color:grey;
+}
+button.btn.login-btn.btn-primary {
+    background-color: #1DA1F2;
+    border-color: #1DA1F2;
+    padding: 15px 82px;
+    border-radius: 100px;
+    font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+margin-top: 15px;
+}
+
+
+.client-heading h2 {
+    font-size: 42px;
+    line-height: 52px;
+    text-align: left;
+
+}
+
+.profile-text p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: white;
+
+}
+
+.profile.d-flex.gap-4 {
+    border: 2px solid;
+    width: 100%;
+    padding: 50px;
+    border-radius: 6px;
+    color: grey;
+}
+
+h5.person {
+    margin-top: 40px;
+}
+
+#call-to-action {
+    background-image: url("images/Background\ \(-1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: #5c5774;
+    margin: 50px 0px;
+    padding: 80px 0px;
+
+}
+
+.easy-step h5 {
+    font-size: 58px;
+    line-height: 70px;
+    letter-spacing: -1px;
+    width: 30%;
+    margin: 0 auto;
+    color: white;
+}
+
+.easy-step p {
+    font-size: 22px;
+    line-height: 32px;
+    width: 32%;
+    margin: 0 auto;
+    padding: 30px 0px;
+    color: white;
+}
+
+.icon-button.d-flex.justify-content-center.align-items-center.gap-3 {
+    margin: 25px 0px;
+}
+
+button.btn.btn-1.btn-primary {
+    background-color: #25DAC5;
+    border-color: #25DAC5;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    border-radius: 100px;
+    padding: 15px 40px;
+}
+
+.icon-play {
+    font-size: 20px;
+    color: white;
+    line-height: 26px;
+    background-color: red;
+    width: 70px;
+    height: 70px;
+    padding-top: 20px;
+    border-radius: 100px;
+}
+
+section#showcase {
+    margin: 50px 0px;
+    padding: 80px 0px;
+    background-color: #2F1893;
+    color: white;
+}
+
+.show-heading h4 {
+    font-size: 42px;
+    line-height: 52px;
+}
+
+p.view {
+    border: 2px solid;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.show-image {
+    text-align: center;
+}
+
+.show-image img {
+    width: 100%;
+}
+
+.show-image h6 {
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+
+.show-image h5 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+section#team {
+    padding: 80px 0px;
+    margin: 50px 0px;
+    background-color: #2F1893;
+    color: white;
+}
+
+.team-row {
+    width: 70%;
+}
+
+.team-row-1 {
+    width: 46%;
+}
+
+.team-heading h3 {
+    font-size: 42px;
+    line-height: 52px;
+}
+
+.team-heading p {
+    font-size: 22px;
+    line-height: 32px;
+    text-align: left;
+    width: 54%;
+    margin-top: 20px;
+}
+
+.team-image h3 {
+    font-size: 22px;
+    line-height: 32px;
+    text-align: left;
+    margin-top: 15px;
+}
+
+.team-image h5 {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-top: 15px;
+}
+
+.icon-team {
+    margin-right: 15px;
+    font-size: 18px;
+    line-height: 38px;
+    margin-top: 15px;
+}
+.icon-team:hover{
+    color: black;
+}
+
+.info h3 {
+    font-size: 42px;
+    line-height: 52px;
+}
+
+#contact {
+    background-image: url("images/Background\ \(2\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0px;
+    padding: 80px 0px;
+    background-blend-mode: overlay;
+    background-color: #5a4f88;
+    color: white;
+}
+
+.info p {
+    width: 56%;
+    font-size: 22px;
+    line-height: 34px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.call.d-flex.align-items-center.gap-4 {
+    font-size: 25px;
+    padding: 20px 0px;
+    margin-left: 27px;
+    margin-top: 15px;
+}
+p.number {
+    margin: 0px;
+    padding: 0px;
+}
+input.form-control {
+    border-radius: 100px;
+    padding: 10px 25px;
+    margin-top: 10px;
+}
+.form-control:focus {
+    background-color: transparent;
+    box-shadow: none;
+    border-color:grey;
+}
+button.btn.send-1-btn.btn-primary {
+    background-color: #25DAC5;
+    border-color: #25DAC5;
+    border-radius: 100px;
+    padding: 0px 25px;
+    font-size: 18px;
+    line-height: 36px;
+}
+.form-check-input:checked {
+    background-color: #25DAC5;
+    border-color: #25DAC5;
+}
+#pricing-table {
+    background-image: url("images/Mask\ \(10\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0px;
+    padding: 80px 0px;
+    background-blend-mode: overlay;
+    background-color: #4d4086;
+    color: white;
+}
+
+.pricing-heading h3 {
+    font-size: 42px;
+    line-height: 52px;
+}
+
+.pricing-heading p {
+    font-size: 22px;
+    line-height: 32px;
+    width: 40%;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+
+.price-table {
+    border: 1px solid;
+    border-color: grey;
+    border-radius: 6px;
+    padding: 50px;
+}
+
+.price-table-1 h4 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.price-table-1 p {
+    font-size: 58px;
+    line-height: 70px;
+}
+
+.features li {
+    font-size: 16px;
+    line-height: 26px;
+    list-style:none;
+    padding: 10px 0px;
+}
+
+button.btn.btn-1.btn-price.btn-primary {
+    background-color: transparent;
+    border-color: grey;
+    color: white;
+    padding: 15px 50px;
+}
+button.btn.btn-1.btn-price.btn-primary:hover{
+    background-color: #E93A7D;
+    color: white;
+}
+.get-btn {
+    margin-top: 30px;
+}
+
+.check-icon {
+    color: green;
+    margin-right: 5px;
+}
+
+li.space {
+    margin-left: 22px;
+}
+
+button.btn.btn-1.btn-price.btn-price-2.btn-primary {
+    background-color: #E93A7D;
+    border-color: #E93A7D;
+    color: white;
+    padding: 2;
+}
+button.btn.btn-1.btn-price.btn-price-2.btn-primary:hover{
+    background-color: white;
+    color: black;
+    border-color:white;
+}
+
+#footer {
+    background-color: #2F1893;
+    margin: 50px 0px 0px 0px;
+    padding: 80px 0px;
+    color: white;
+}
+
+.start-heading p {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31.25px;
+}
+
+.privacy p {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer-icon {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.social-icon {
+    margin-right: 20px;
+}
+.social-icon:hover{
+    color:black;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border: 2px solid;
+}
+
+.list li {
+    list-style: none;
+    padding-right: 20px;
+    line-height: 26px;
+}
+
+.copyright p {
+    margin: 0px;
+    padding: 0px;
+    line-height: 26px;
+}
+@media only screen and (max-width: 768px) {
+    .carousel-inner{
+        overflow: visible;
+    }
+    .conatiner{
+        overflow:hidden;
+    }
+    .navbar-collapse {
+        align-items: center;
+        position: relative;
+        right: 86%;
+        text-align: center;
+        background-color:#2F1893;
+        margin-right: 19px;
+        padding: 31px 93px;
+        margin-top: 15px;
+    }
+    .navbar-toggler {
+        font-size:20px;
+        background-color:white;
+    }
+    button.btn.btn-account.btn-primary {
+        padding: 15px 15px;
+        font-size: 15px !important;
+        line-height: 0px;
+        margin-top: 7px;
+    
+    }
+    .carousel-caption p {
+        font-size: 11px;
+        font-weight: 500;
+        line-height: 12px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0px;
+    }
+    .carousel-caption h1 {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 10px;
+    
+    }   
+    .carousel-caption h3 {
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 21.25px;
+    }
+    .carousel-caption {
+        bottom: 8%;
+    }
+    nav.navbar.navbar-expand-sm {
+        left: 80%;
+        top: 0px;
+    }
+    .text-center {
+        padding: 0px 20px;
+    }
+    .sample-free h5 {
+        font-size: 29px;
+        line-height: 40px;
+        width: 100%;
+    }
+    .sample-free h6 {
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: 1px;
+    }
+    .sample-free p {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .form-content h5 {
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        width: 100%;
+    }
+    .form-content {
+        padding: 0px 20px;
+    }
+    .form-content p {
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        width: 100%;
+    }
+    .form-border {
+        background-color: white;
+        padding: 30px 21px;
+        width: 100%;
+        margin-top: 35px;
+    }
+    .client-heading h2 {
+        font-size: 40px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .profile.d-flex.gap-4 {
+        padding: 15px 8px;
+        margin-top: 11px;
+    }
+    .easy-step h5 {
+        font-size: 40px;
+        line-height: 40px;
+        width: 100%;
+
+    }
+    .easy-step p {
+        font-size: 20px;
+        line-height: 25px;
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .icon-play {
+        font-size: 16px;
+        width: 50px;
+        height: 50px;
+        padding-top: 10px;
+    }
+    button.btn.btn-1.btn-primary {
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+    .show-heading h4 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    p.view {
+        padding: 7px 15px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .team-heading h3 {
+        font-size: 35px;
+        line-height: 30px;
+    }
+    .team-heading p {
+        font-size: 20px;
+        line-height: 24px;
+         width: 100%;
+    }
+    .team-heading {
+        margin-left: 20px;
+    }
+    .team-row {
+        margin-left: 20px;
+    }
+    .team-row-1 {
+        margin-left: 20px;
+    }
+    .col.image-col {
+        margin-top: 20px;
+    }
+    .info h3 {
+        font-size: 35px;
+        line-height: 22px;
+    }
+    .info p {
+        width: 100%;
+        font-size: 19px;
+        line-height: 27px;
+        text-align: center;
+        padding: 15px 0px;
+    }
+    .call.d-flex.align-items-center.gap-4 {
+        font-size: 20px;
+        padding: 8px 0px;
+        margin-left: 27px;
+        margin-top: 15px;
+    }
+    .pricing-heading p {
+        font-size: 19px;
+        line-height: 27px;
+        width: 100%;
+    }
+    .list li {
+        padding-right: 10px;
+    }
+    .price-table {
+        margin-top: 20px;
+    }
+    .footer-start.d-flex.justify-content-between.align-items-center {
+        flex-direction: column;
+    }
+    .name-brand.d-flex.justify-content-between.align-items-center {
+        flex-direction: column;
+    }
+}
